@@ -1,6 +1,6 @@
 # predicting_voter_preferences
 
-## Technologies and Tools:
+## Libraries
 * Python 3.4.1
 * TensorFlow 2.15.1
 * GeoPandas 20.22.7
