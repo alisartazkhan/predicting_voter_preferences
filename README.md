@@ -7,6 +7,10 @@
 * Pandas 1.16.0
 * Matplotlib
 
+## Datasets
+* CCES 2016 voter survey
+* Official Presidential Election data
+
 ## Tasks
 * In 2016, which major party candidate (Trump or Clinton) would voters of third party candidates (Johnson, Stein, McMullin) likely choose as their second choice if Ranked Choice Voting was allowed?
 * Rank all the features from most important to least important when it comes to determining whether third party candidates would put Trump or Clinton as their 2nd choice.
