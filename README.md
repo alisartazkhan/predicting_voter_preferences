@@ -8,3 +8,29 @@
 
 ## Feature importances
 * Trained a Random Forest Classifier model using Trump and Clinton data
+* ![Alt text](image.png)
+
+## Second choice predictions for Third-party voters
+* ![Alt text](image-1.png)
+
+## Simulate 2016 Presidential Elections
+### Original
+* ![Alt text](image-2.png)
+* Texas has 38 Electoral Votes.  1 was cast for John Kasich and 1 was cast for Ron Paul. 		
+* Hawaii has 4 Electoral Votes and 1 was cast for Bernie Sanders. 
+* Washington has 12 Electoral Votes.  3 were cast for Colin Powell and 1 was cast for Faith Spotted Eagle.   
+* Maine has 4 electoral votes. 3 were cast for Clinton and 1 was cast for Trump.
+
+### Borda Count
+* ![Alt text](image-3.png)
+
+### Instant Run-off Voting
+* ![Alt text](image-4.png)
+
+### Copeland
+* ![Alt text](image-5.png)
+
+## Limitations
+* Third party voter counts for states are approximations based on nationwide percentages since state-wise voter counts for each third party candidate are not provided.
+* Results might change if more features are added to the ML model.
+* A lot of the features are unanswered on the survey so training data is limited 
