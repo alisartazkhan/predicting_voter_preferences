@@ -1,4 +1,4 @@
-# predicting_voter_preferences
+# Predicting Voter Preferences
 
 ## Libraries
 * Python 3.4.1
